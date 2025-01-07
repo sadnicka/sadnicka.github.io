@@ -418,49 +418,49 @@ ninja.data = [{
           section: "News",},{id: "news-if-you-are-a-person-living-with-dystonia-in-the-uk-please-complete-our-survey-exploring-experiences-of-physiotherapy-the-uk-currently-lags-behind-many-regions-of-the-world-in-terms-of-the-quality-and-scope-of-physiotherapy-and-we-need-your-perspectives-on-how-we-can-try-and-improve-this-survey-open-until-mid-jan-2025",
           title: 'If you are a person living with dystonia in the UK please complete...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-computing-phenotype-in-movement-disorders",
+          title: 'Computing phenotype in movement disorders',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-bringing-pixel-precision-to-phenotype",
+          title: 'Bringing pixel precision to phenotype',
+          description: "Ivan to do",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-science-of-rehabilitation",
+          title: 'science of rehabilitation',
+          description: "kate to do physiotherapy and dystonia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-generalised-dystonia",
+          title: 'generalised dystonia',
+          description: "reverse engineering core deficits in DYT-TOR1A dystonia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-task-specific-dystonia",
+          title: 'task-specific dystonia',
+          description: "how motor control science informs management",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-differential-learning",
+          title: 'differential learning',
+          description: "what is it and when is it helpful?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-metacognition-and-functional-neurological-disorders",
+          title: 'Metacognition and functional neurological disorders',
+          description: "to do",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-temporal-discrimination-and-dystonia",
+          title: 'Temporal discrimination and dystonia',
+          description: "to do",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
