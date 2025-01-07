@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Themes of work in lab
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 8
+display_categories: #[phenomenology, dystonia, rehabilitation]
 horizontal: false
 ---
 
