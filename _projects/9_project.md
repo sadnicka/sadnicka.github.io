@@ -2,7 +2,7 @@
 layout: page
 title: Novel DBS sites for cervical dystonia
 description: a project with a background image
-img: assets/img/1.jpg
+img: assets/img/0.jpg
 importance: 9
 category: 
 ---

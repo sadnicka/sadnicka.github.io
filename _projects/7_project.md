@@ -2,7 +2,7 @@
 layout: page
 title: Metacognition and functional neurological disorders
 description: to do
-img: assets/img/2brains.jpg
+img: assets/img/7.jpg
 importance: 7
 category: psychophysics
 giscus_comments: true

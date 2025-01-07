@@ -2,7 +2,7 @@
 layout: page
 title: generalised dystonia
 description: reverse engineering core deficits in DYT-TOR1A dystonia
-img: assets/img/footdys.jpg
+img: assets/img/4.jpg
 importance: 4
 category: dystonia
 related_publications: false

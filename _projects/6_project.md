@@ -2,7 +2,7 @@
 layout: page
 title: differential learning
 description: what is it and when is it helpful?
-img: assets/img/8.jpg
+img: assets/img/6.jpg
 importance: 6
 category: rehabilitation
 ---

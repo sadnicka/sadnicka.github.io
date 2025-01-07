@@ -2,7 +2,7 @@
 layout: page
 title: Bringing pixel precision to phenotype 
 description: Ivan to do 
-img: assets/img/9.jpg
+img: assets/img/2.jpg
 importance: 2
 category: phenomenology
 
