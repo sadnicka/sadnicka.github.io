@@ -1,17 +1,16 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: task-specific dystonia
+description: how motor control science informs management
+img: assets/img/handys.jpg
+importance: 5
+category: dystonia
+giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Task-specific dystonia has a number of features that identify it as an outlier from other dystonias.  The range of environmental influences and association with specific tasks offer windows into mechanism if interpreted with the right tools.  Furthermore, the unreliability of traditional neurophysiological markers and canonical somatotopy model motivate the need for alternative ways to understand the disorders.  We tried to offer another perspective that integrated a modern neuroscientific literature in skill learning with decades of clinical reserach in patients.  This offers a neural architecture and vocabulary to describe different deficits and predicts the efficacy of treatments such as differential learning which we discovered after arriving at a similar formulation to other groups.  Such insights offer an optimistic perspective on task-specific dystonia.  It should no longer be considered untreatable.  It responds well to specialist botulinum toxin injections, surgical options are also offered at a number of centres and movements can be retrained by reboosting natural variability!  
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
 
     ---
     layout: page

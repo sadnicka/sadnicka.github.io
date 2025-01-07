@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: differential learning
+description: what is it and when is it helpful?
+img: assets/img/8.jpg
+importance: 6
+category: rehabilitation
 ---
 
 Every project has a beautiful feature showcase page.
