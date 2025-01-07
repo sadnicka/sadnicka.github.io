@@ -1,0 +1,3 @@
+Isobel Platt is a Clinical Research Fellow in Movement disorders. I completed my medical undergraduate training at UCL and have returned to undertake a PhD in DYT-TOR1A Dystonia. I am enthusiastic to explore my interests in hyperkinetic movement disorders in clinical and research settings. 
+
+My project is aimed at developing quantitative phenotyping of patients with DYT-TOR1A dystonia alongside those with non-genetic dystonia through high-density electromyography (HDEMG) and magnetic encephalography (MEG). The project is a collaboration between the Department of Clinical Neurosciences and the Wellcome Centre for Human Neuroimaging. 

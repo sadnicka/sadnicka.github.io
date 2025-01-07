@@ -1,0 +1,3 @@
+Iván Varela is a research assistant intrigued with the world of computational and mathematical models to unravel the brain's remarkable abilities and understand how diseases affect them.
+
+My journey in neuroscience began with a BSc from the University of Miami and led me to an MSc in Neuroimaging at King's College London. At UCL's Gatsby Computational Neuroscience Unit and Department of Clinical Movement Neurosciences, my role is to delve into the Mathematics of Movement Disorders. Our team is building a rich, quantitative, multimodal dataset on movement disorder patients, aiming to uncover the hidden patterns in these conditions.
