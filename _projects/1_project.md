@@ -2,7 +2,7 @@
 layout: page
 title: Computing phenotype in movement disorders
 description: 
-img: assets/img/1.jpg
+img: assets/img/compute.jpg
 importance: 1
 category: phenomenology
 related_publications: false
