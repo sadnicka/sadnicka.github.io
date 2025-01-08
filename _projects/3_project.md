@@ -2,7 +2,7 @@
 layout: page
 title: science of rehabilitation
 description: kate to do physiotherapy and dystonia
-img: assets/img/recovery.jpg
+img: assets/img/rehab.jpg
 importance: 3
 category: rehabilitation
 
