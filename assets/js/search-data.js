@@ -118,21 +118,6 @@ ninja.data = [{
           description: "what is it and when is it helpful?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-metacognition-and-functional-neurological-disorders",
-          title: 'Metacognition and functional neurological disorders',
-          description: "to do",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-temporal-discrimination-and-dystonia",
-          title: 'Temporal discrimination and dystonia',
-          description: "to do",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-novel-dbs-sites-for-cervical-dystonia",
-          title: 'Novel DBS sites for cervical dystonia',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
