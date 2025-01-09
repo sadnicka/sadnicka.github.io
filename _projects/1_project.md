@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computing phenotype in movement disorders
+title: computing phenotype in hyperkinetic movement disorders
 description: 
 img: assets/img/compute.jpg
 importance: 1
