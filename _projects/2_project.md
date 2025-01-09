@@ -7,4 +7,4 @@ importance: 2
 category: phenomenology
 
 ---
-Human pose estimation is a type of computer vision that estimates the position of key anatomical points of the body from visual data such as images or videos.  ‘Phenomenology in Movement Disorders’ is a recent publication of clinical movement disorders videos expertly curated by  by Steven Frucht and Pichet Termsarasab.  In collaboration with Steven Frucht we aim to showcase how clinical pearls can be combined with quantitative methods as a stepping stone towards a quantitative framework for human movement disorders.  
+Human pose estimation is a computer vision technique that tracks the position of key points on a person's body in an image or video. ‘Phenomenology in Movement Disorders’ is a video encyclopedia of clinical movement disorders expertly curated by  by Steven Frucht and Pichet Termsarasab.  In collaboration we aim to showcase how clinical pearls can be combined with quantitative 2D pose estimation to provide a stepping stone towards a quantitative framework for human movement disorders.  
