@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Themes of work in lab",
+          description: "themes of work in lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -73,14 +73,8 @@ ninja.data = [{
           section: "News",},{id: "news-new-article-with-mark-edwards-debating-significance-of-clinical-phenotype-and-how-circuit-level-understanding-is-critical-to-optimise-treatment-strategies-in-patients-between-nothing-and-everything-phenomenology-in-movement-disorders",
           title: 'New article with Mark Edwards debating significance of clinical phenotype and how circuit-level...',
           description: "",
-          section: "News",},{id: "news-big-welcome-to-iván-varela-research-assistant-and-kate-sampson-research-neurophysiotherapist-who-form-the-computational-movement-disorders-lab",
-          title: 'Big welcome to Iván Varela (research assistant) and Kate Sampson (research neurophysiotherapist) who...',
-          description: "",
           section: "News",},{id: "news-musicians-with-dystonia-are-less-able-to-individuate-single-finger-movements-than-healthy-musicians-in-a-new-paper-in-nature-scientific-reports-we-discuss-whether-sensitive-markers-of-dexterity-could-be-biomarkers-for-different-phases-of-the-disorder",
           title: 'Musicians with dystonia are less able to individuate single finger movements than healthy...',
-          description: "",
-          section: "News",},{id: "news-issi-platt-joins-the-lab-co-supervised-by-tom-warner-and-gareth-barners-issi-will-be-studying-naturalistic-motor-tasks-in-patients-with-dystonia-whilst-sampling-neural-activity-using-optically-pumped-magnetometers-meg",
-          title: 'Issi Platt joins the lab! Co-supervised by Tom Warner and Gareth Barners. Issi...',
           description: "",
           section: "News",},{id: "news-don-t-miss-our-session-the-neurology-of-visual-recognition-at-the-international-congress-of-parkinson-s-disease-and-movement-disorders-in-philadelphia-chaired-by-steven-frucht-and-marina-koning-tijssen",
           title: 'Don’t miss our session ‘The neurology of visual recognition’ at the International Congress...',
@@ -88,24 +82,24 @@ ninja.data = [{
           section: "News",},{id: "news-if-you-are-a-person-living-with-dystonia-in-the-uk-please-complete-our-survey-exploring-experiences-of-physiotherapy-the-uk-currently-lags-behind-many-regions-of-the-world-in-terms-of-the-quality-and-scope-of-physiotherapy-and-we-need-your-perspectives-on-how-we-can-try-and-improve-this-survey-open-until-mid-jan-2025",
           title: 'If you are a person living with dystonia in the UK please complete...',
           description: "",
-          section: "News",},{id: "projects-computing-phenotype-in-hyperkinetic-movement-disorders",
-          title: 'computing phenotype in hyperkinetic movement disorders',
+          section: "News",},{id: "projects-computing-phenotype-in-movement-disorders",
+          title: 'computing phenotype in movement disorders',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-bridging-pixel-precision-and-clinical-phenomenology",
-          title: 'bridging pixel precision and clinical phenomenology',
+            },},{id: "projects-bridging-pixel-precision-and-phenomenology",
+          title: 'bridging pixel precision and phenomenology',
           description: "Ivan to do",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-science-of-rehabilitation",
-          title: 'science of rehabilitation',
+            },},{id: "projects-units-of-rehabilitation",
+          title: 'units of rehabilitation',
           description: "kate to do physiotherapy and dystonia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-generalised-dystonia",
           title: 'generalised dystonia',
-          description: "reverse engineering features of generalised dystonia",
+          description: "reverse engineering generalised dystonia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-task-specific-dystonia",
