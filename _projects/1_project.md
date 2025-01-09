@@ -2,7 +2,7 @@
 layout: page
 title: computing phenotype in movement disorders
 description: learning invariant features, characterising variability
-img: assets/img/1_compute.jpg
+img: assets/img/1_compute2.jpg
 importance: 1
 category: phenomenology
 related_publications: false

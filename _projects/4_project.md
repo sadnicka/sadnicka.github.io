@@ -2,7 +2,7 @@
 layout: page
 title: generalised dystonia
 description: reverse engineering causal features
-img: assets/img/generalised.jpg
+img: assets/img/4_gendys.jpg
 importance: 4
 category: dystonia
 related_publications: false

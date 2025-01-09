@@ -2,7 +2,7 @@
 layout: page
 title: bridging pixel precision and clinical intuition
 description: quantification of movement disorders
-img: assets/img/pixel.jpg
+img: assets/img/2_pixel.jpg
 importance: 2
 category: phenomenology
 
