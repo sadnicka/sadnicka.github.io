@@ -2,7 +2,7 @@
 layout: page
 title: generalised dystonia
 description: reverse engineering features of generalised dystonia
-img: assets/img/integration.jpg
+img: assets/img/generalised.jpg
 importance: 4
 category: dystonia
 related_publications: false
