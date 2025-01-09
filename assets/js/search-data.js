@@ -84,7 +84,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-computing-phenotype-in-movement-disorders",
           title: 'computing phenotype in movement disorders',
-          description: "learning invariant features",
+          description: "learning invariant features, characterising variability",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-bridging-pixel-precision-and-clinical-intuition",
@@ -99,7 +99,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-generalised-dystonia",
           title: 'generalised dystonia',
-          description: "reverse engineering generalised dystonia",
+          description: "reverse engineering causal features",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-task-specific-dystonia",
