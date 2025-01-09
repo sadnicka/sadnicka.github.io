@@ -1,7 +1,7 @@
 ---
 layout: page
 title: computing phenotype in movement disorders
-description: 
+description: learning invariant features
 img: assets/img/1_compute.jpg
 importance: 1
 category: phenomenology
