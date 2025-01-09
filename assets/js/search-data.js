@@ -88,13 +88,13 @@ ninja.data = [{
           section: "News",},{id: "news-if-you-are-a-person-living-with-dystonia-in-the-uk-please-complete-our-survey-exploring-experiences-of-physiotherapy-the-uk-currently-lags-behind-many-regions-of-the-world-in-terms-of-the-quality-and-scope-of-physiotherapy-and-we-need-your-perspectives-on-how-we-can-try-and-improve-this-survey-open-until-mid-jan-2025",
           title: 'If you are a person living with dystonia in the UK please complete...',
           description: "",
-          section: "News",},{id: "projects-computing-phenotype-in-movement-disorders",
-          title: 'Computing phenotype in movement disorders',
+          section: "News",},{id: "projects-computing-phenotype-in-hyperkinetic-movement-disorders",
+          title: 'computing phenotype in hyperkinetic movement disorders',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-bringing-pixel-precision-to-phenotype",
-          title: 'Bringing pixel precision to phenotype',
+            },},{id: "projects-bridging-pixel-precision-and-clinical-phenomenology",
+          title: 'bridging pixel precision and clinical phenomenology',
           description: "Ivan to do",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
@@ -105,7 +105,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-generalised-dystonia",
           title: 'generalised dystonia',
-          description: "reverse engineering core deficits in DYT-TOR1A dystonia",
+          description: "reverse engineering features of generalised dystonia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-task-specific-dystonia",
