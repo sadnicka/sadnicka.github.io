@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: themes of work in lab
 nav: true
-nav_order: 8
+nav_order: 1
 display_categories: #[phenomenology, dystonia, rehabilitation]
 horizontal: false
 ---
