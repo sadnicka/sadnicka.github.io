@@ -2,7 +2,7 @@
 layout: page
 title: computing phenotype in hyperkinetic movement disorders
 description: 
-img: assets/img/compute.jpg
+img: assets/img/1_compute.jpg
 importance: 1
 category: phenomenology
 related_publications: false
