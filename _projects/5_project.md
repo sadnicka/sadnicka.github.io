@@ -2,7 +2,7 @@
 layout: page
 title: task-specific dystonia
 description: how motor control science informs management
-img: assets/img/music.jpg
+img: assets/img/5_tsdys.jpg
 importance: 5
 category: dystonia
 giscus_comments: true

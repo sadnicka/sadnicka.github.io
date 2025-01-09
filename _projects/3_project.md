@@ -2,7 +2,7 @@
 layout: page
 title: units of rehabilitation
 description: physiotherapy and dystonia
-img: assets/img/rehab.jpg
+img: assets/img/3_units.jpg
 importance: 3
 category: rehabilitation
 
