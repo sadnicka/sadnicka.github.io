@@ -12,10 +12,10 @@ related_publications: false
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/funnel.jpg" title="degeneracy" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-6 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/mapping.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
