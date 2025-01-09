@@ -87,9 +87,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-bridging-pixel-precision-and-phenomenology",
-          title: 'bridging pixel precision and phenomenology',
-          description: "Ivan to do",
+            },},{id: "projects-bridging-pixel-precision-and-clinical-intuition",
+          title: 'bridging pixel precision and clinical intuition',
+          description: "quantification of movement disorders",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-units-of-rehabilitation",
