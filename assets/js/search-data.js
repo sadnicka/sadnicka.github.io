@@ -84,7 +84,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-computing-phenotype-in-movement-disorders",
           title: 'computing phenotype in movement disorders',
-          description: "",
+          description: "learning invariant features",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-bridging-pixel-precision-and-clinical-intuition",
@@ -94,7 +94,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-units-of-rehabilitation",
           title: 'units of rehabilitation',
-          description: "kate to do physiotherapy and dystonia",
+          description: "physiotherapy and dystonia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-generalised-dystonia",
@@ -107,11 +107,6 @@ ninja.data = [{
           description: "how motor control science informs management",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-differential-learning",
-          title: 'differential learning',
-          description: "what is it and when is it helpful?",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
