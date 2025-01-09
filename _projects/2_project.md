@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bridging pixel precision and clinical phenomenology 
+title: bridging pixel precision and phenomenology 
 description: Ivan to do 
 img: assets/img/pixel.jpg
 importance: 2

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: science of rehabilitation
+title: units of rehabilitation
 description: kate to do physiotherapy and dystonia
 img: assets/img/rehab.jpg
 importance: 3

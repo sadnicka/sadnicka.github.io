@@ -16,6 +16,6 @@ social: true # includes social icons at the bottom of the page
 
 Our mission is to better understand human movement disorders so that our research creates new treatment options for patients.
 
-Using motion capture and wireless neurophysiology we sample of human movement disorders within naturalistic settings.  We apply motor control theory and computational modelling in our efforts to define the invariant behavioural statistics of phenomenology.  
+Using motion capture and wireless neurophysiology we sample of human movement disorders within naturalistic settings.  We apply motor control theory and computational modelling to characterise the behavioural statistics of clinical phenomenology.  
 
-Our research is based on current clinical need.  In many disorders, unless we can reliably quantify and understand phenomenology circuit-level mechanism will remain elusive. Outputs from our research directly inform neuromodulation and neurorehabilitation strategies for patients.
+Our research is based on current clinical need.  In many disorders, unless we can reliably quantify and understand behaviour, circuit-level mechanism will remain elusive. Outputs from our research directly inform neuromodulation and neurorehabilitation strategies for patients.

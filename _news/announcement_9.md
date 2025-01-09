@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-22 15:59:00-0400
+date: 2024-09-24 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Musicians with dystonia are less able to individuate single finger movements than healthy musicians.  In a new paper in [Nature Scientific Reports](https://www.nature.com/articles/s41598-024-65888-3) we discuss whether sensitive markers of dexterity could be biomarkers for different phases of the disorder.
+Don't miss our session ['The neurology of visual recognition'](https://www.mdscongress.org/Sessions/2403.htm) at the International Congress of Parkinson's Disease and Movement Disorders in Philadelphia chaired by Steven Frucht and Marina Koning-Tijssen
