@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: wellcome-logo-black.png
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: 
  
