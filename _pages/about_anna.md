@@ -1,6 +1,6 @@
 Anna Sadnicka is a Consultant Clinical Academic and leads the CMD Lab. 
 
-My PhD at University College London (UCL) explored the role of the cerebellum in dystonia.  I was awarded the prestigious Guarantors of Brain Clinical Research Fellowship within the [Association of British Neurologists](https://www.theabn.org/page/abn_fellowship) scheme and was supervised by Mark Edwards and John Rothwell.  I used neurophysiology, robotics and psychophysics to probe this topic from a range of perspectives, publishing over 20 peer reviewed article with winning awards at National and International levels.  
+My PhD at University College London (UCL) explored the role of the cerebellum in dystonia.  I was awarded the prestigious Guarantors of Brain Clinical Research Fellowship within the [Association of British Neurologists](https://www.theabn.org/page/abn_fellowship) scheme and was supervised by Mark Edwards and John Rothwell.  I used neurophysiology, robotics and psychophysics to probe this topic from a range of perspectives.  
 
 I was then awarded a Chadburn Clinical Lecturership at St George’s University of London (SGUL) a post that allowed me to finish my clinical neurology training and continue collaborative work as an Honorary Research Fellow at UCL.  Additional project funding was competitively awarded by the Royal Society, SGUL and the Rosetree Trust.
 
