@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-01 07:59:00-0400
+date: 2025-01-14 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-If you are a person living with dystonia in the UK please complete our [survey](https://x.com/Krsampson1989/status/1822948098773012987) exploring experiences of physiotherapy.  The UK currently lags behind many regions of the world in terms of the quality and scope of physiotherapy and we need your perspectives on how we can try and improve this. Survey open until mid Jan 2025!
+Just published this hot topic article for [Movement Disorders](https://movementdisorders.onlinelibrary.wiley.com/doi/epdf/10.1002/mds.30092?domain=author&token=VHQPBV4XRDTMDN4SBHQM) showcasing powerful scientific work by Smoulder et al. revealing a neural basis for choking under pressure. Relevant for neurological disorders such as task-specific dystonia and conditions in which attention is detrimental to movement.
