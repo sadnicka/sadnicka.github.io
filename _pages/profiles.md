@@ -28,6 +28,11 @@ profiles:
     image: issi.png
     content: about_issi.md
     image_circular: true # crops the image to make it circular
-    more_info: 
+    more_info:
+  - align: right
+    image: mireia.png
+    content: about_mireia.md
+    image_circular: true # crops the image to make it circular
+    more_info:
 ---
 
