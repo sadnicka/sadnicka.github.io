@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-06-23 07:59:00-0400
+date: 2025-05-23 07:59:00-0400
 inline: true
 related_posts: false
 ---
-We've been awarded a National Brain Appeal Innovation Fund grant to develop an **i**ntelligent **Mov**ement *A*ssessment system (iMOVA)!
+:fast_forward: Thank you to the [National Brain Appeal](https://www.nationalbrainappeal.org/) for awarding us an Innovation Fund to start developing motion capture systems for the NHS in collaboration with [neurogears](https://neurogears.org/about-us/)!

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Anna will be speaking at the session ['The neurology of visual recognition'](https://www.mdscongress.org/Sessions/2403.htm) at the International Congress of Parkinson's Disease and Movement Disorders in Philadelphia chaired by Steven Frucht and Marina Koning-Tijssen. 
+At the International Congress of Parkinson's Disease and Movement Disorders in Philadelphia! Anna debating the modern relevance of phenomenology within session 'The neurology of visual recognition'chaired by Steven Frucht and Marina Koning-Tijssen. 

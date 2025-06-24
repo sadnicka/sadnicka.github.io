@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2025-05-14 07:59:00-0400
+date: 2025-04-23 07:59:00-0400
 inline: true
 related_posts: false
 ---
-
-Phenomenal range of science across species at the inaugural [UCL Dystonia Symposium](https://www.ucl.ac.uk/ion/events/2025/may/inaugural-ucl-dystonia-day-symposium)!  Anna part of panel discussions on how to best advance dystonia research and will give a talk on work in task-specific dystonia ... 
+Congratulations to Kate on the birth of Aleksander! Kate will be on maternity leave for one year.
