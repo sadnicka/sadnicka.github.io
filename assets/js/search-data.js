@@ -73,7 +73,7 @@ ninja.data = [{
           section: "News",},{id: "news-symposium-on-the-neuroscience-of-expert-performance-at-royal-college-of-music-co-organised-with-maria-herrojo-ruiz-and-katja-kornysheva-thank-you-to-the-panel-rcm-colleagues-and-multi-disciplinary-audience-made-possible-by-outreach-grants-from-the-guarantors-of-brain-and-goldsmiths-university-of-london",
           title: 'Symposium on the Neuroscience of Expert Performance at Royal College of Music co-organised...',
           description: "",
-          section: "News",},{id: "news-in-a-new-paper-in-nature-scientific-reports-we-discuss-whether-sensitive-markers-of-dexterity-could-be-biomarkers-for-different-phases-of-the-disorder",
+          section: "News",},{id: "news-in-a-new-paper-in-nature-scientific-reports-we-discuss-whether-sensitive-markers-of-dexterity-could-be-biomarkers-for-different-stages-of-task-specific-dystonia",
           title: 'In a new paper in Nature Scientific Reports we discuss whether sensitive markers...',
           description: "",
           section: "News",},{id: "news-at-the-international-congress-of-parkinson-s-disease-and-movement-disorders-in-philadelphia-anna-debating-the-modern-relevance-of-phenomenology-within-session-the-neurology-of-visual-recognition-chaired-by-steven-frucht-and-marina-koning-tijssen",
