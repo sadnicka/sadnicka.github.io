@@ -91,7 +91,7 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-kate-on-the-birth-of-aleksander-kate-will-be-on-maternity-leave-for-one-year",
           title: 'Congratulations to Kate on the birth of Aleksander! Kate will be on maternity...',
           description: "",
-          section: "News",},{id: "news-at-the-inaugural-ucl-dystonia-symposium-anna-part-of-panel-discussions-on-how-to-best-advance-dystonia-research-and-has-a-a-talk-on-task-specific-dystonia",
+          section: "News",},{id: "news-at-the-inaugural-ucl-dystonia-symposium-anna-part-of-panel-discussions-on-how-to-best-advance-dystonia-research-and-talking-about-task-specific-dystonia",
           title: 'At the inaugural UCL Dystonia Symposium! Anna part of panel discussions on how...',
           description: "",
           section: "News",},{id: "news-fast-forward-thank-you-to-ucl-research-capital-investment-fund-rcif-for-their-grant-for-further-equipment-in-the-lab",
