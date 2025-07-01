@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://sadnicka.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://sadnickalab.org# the base hostname & protocol for your site/sitemap.xml
