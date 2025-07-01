@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Looking forward to the [Advances in Motor Learning II](https://uobevents.eventsair.com/advances-in-motor-learning-ii/) conference this December.  Early bird rate closes for [registration](https://uobevents.eventsair.com/advances-in-motor-learning-ii/registration) closes 31 July.
+Anna giving a keynote talk at [Advances in Motor Learning II](https://uobevents.eventsair.com/advances-in-motor-learning-ii/) conference this December.  Early bird rate closes for [registration](https://uobevents.eventsair.com/advances-in-motor-learning-ii/registration) closes 31 July ...
