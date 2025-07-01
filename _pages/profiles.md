@@ -12,27 +12,31 @@ profiles:
   - align: right
     image: anna.png
     content: about_anna.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false 
     more_info: 
   - align: left
     image: ivan.png
     content: about_ivan.md
-    image_circular: true # crops the image to make it circular
-    more_info: 
-  - align: right
+    image_circular: false 
+    more_info: >
+      <p> Reserach Assistant</p>
+  - align: left
     image: kate.png
     content: about_kate.md
-    image_circular: true # crops the image to make it circular
-    more_info: 
+    image_circular: false  
+    more_info: >
+      <p> Neurophysiotherapist</p>
+  - align: left
+    image: mireia.png
+    content: about_mireia.md
+    image_circular: false 
+    more_info: >
+      <p> Neurophysiotherapist</p>
   - align: left
     image: issi.png
     content: about_issi.md
-    image_circular: true # crops the image to make it circular
-    more_info:
-  - align: right
-    image: mireia.png
-    content: about_mireia.md
-    image_circular: true # crops the image to make it circular
-    more_info:
+    image_circular: false 
+    more_info: >
+      <p> PhD Student</p>
 ---
 
