@@ -19,7 +19,7 @@ profiles:
     content: about_ivan.md
     image_circular: false 
     more_info: >
-      <p> Reserach Assistant</p>
+      <p> Research Assistant</p>
   - align: left
     image: kate.png
     content: about_kate.md
