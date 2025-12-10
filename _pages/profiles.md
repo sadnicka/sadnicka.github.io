@@ -38,5 +38,11 @@ profiles:
     image_circular: false 
     more_info: >
       <p> PhD Student</p>
+  - align: left
+    image: marta.png
+    content: about_marta.md
+    image_circular: false 
+    more_info: >
+      <p> PhD Student</p>
 ---
 
