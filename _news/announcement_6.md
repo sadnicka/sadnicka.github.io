@@ -1,10 +1,7 @@
 ---
 layout: post
-date: 2023-09-08 07:59:00-0400
+date: 2025-05-21 07:59:00-0400
 inline: true
 related_posts: false
 ---
-
-Symposium on the Neuroscience of Expert Performance at Royal College of Music co-organised with Maria Herrojo Ruiz and Katja Kornysheva! Thank you to the panel, RCM colleagues and multi-disciplinary audience. Made possible by outreach grants from the Guarantors of Brain and Goldsmiths University of London.     
-
-
+:fast_forward: Thank you to UCL Research Capital Investment Fund (RCIF) for their grant for further equipment in the lab!

@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2022-10-10 07:59:00-0400
+date: 2024-07-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-How is task-specific dystonia represented in the [brain]((https://academic.oup.com/brain/article/146/4/1511/6726536))?  A collaboration with Jörn Diedrichsen in which we explored a range of traditional spatial analysis and state-of-the art multivariate analyses to search for reliable neural correlates within sensorimotor cortex.  
-
+In a new paper in [Nature Scientific Reports](https://www.nature.com/articles/s41598-024-65888-3) we discuss whether sensitive markers of dexterity could be biomarkers for different stages of task-specific dystonia.

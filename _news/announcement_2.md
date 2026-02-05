@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2022-06-19 07:59:00-0400
+date: 2023-09-08 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-The similarity of eyeblink conditioning behaviour in dystonia and controls is against a global deficit in cerebellar learning.  Published in [Movement Disorders](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28967) we discuss how these findings inform models of cerebellar involvement in the pathophysiology of dystonia.  A research digest also available in Dystonia Matters written for [Dystonia UK](https://www.dystonia.org.uk/).   
+Symposium on the Neuroscience of Expert Performance at the Royal College of Music, co-organised with Maria Herrojo Ruiz and Katja Kornysheva. Many thanks to the panel, RCM colleagues and our multidisciplinary audience. The event was made possible by outreach grants from the Guarantors of Brain and Goldsmiths, University of London.     
 
 

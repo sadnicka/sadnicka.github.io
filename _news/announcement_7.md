@@ -1,9 +1,7 @@
 ---
 layout: post
-date: 2023-09-01 07:59:00-0400
+date: 2025-05-23 07:59:00-0400
 inline: true
 related_posts: false
 ---
-
-New article with Mark Edwards debating significance of clinical phenotype and how circuit-level understanding is critical to optimise treatment strategies in patients: [Between Nothing and Everything: Phenomenology in Movement Disorders](https://movementdisorders.onlinelibrary.wiley.com/doi/full/10.1002/mds.29584)
-
+:fast_forward: Thank you to the [National Brain Appeal](https://www.nationalbrainappeal.org/tracking-movement-disorders/) for awarding us an Innovation Fund to start developing scalable motion capture systems in collaboration with [NeuroGEARS](https://neurogears.org/about-us/)!

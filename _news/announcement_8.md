@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2024-07-22 15:59:00-0400
+date: 2025-07-23 07:59:00-0400
 inline: true
 related_posts: false
 ---
-
-In a new paper in [Nature Scientific Reports](https://www.nature.com/articles/s41598-024-65888-3) we discuss whether sensitive markers of dexterity could be biomarkers for different stages of task-specific dystonia.
+Congratulations to Kate on being awarded a prestigious NIHR Predoctoral Fellowship to advance research into the mechanistic basis of neurophysiotherapy interventions for dystonia.

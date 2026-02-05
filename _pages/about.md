@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Quantitative human motor neuroscience across health and disease
+***Quantitative human motor neuroscience across health and disease***
 
 We study human movement as a high-dimensional behavioural output of the nervous system. Our research combines quantitative movement tracking, wireless neurophysiology, and computational modelling to understand how motor control is organised, how coordination and variability emerge, and how these processes are altered in neurological disease.
 
