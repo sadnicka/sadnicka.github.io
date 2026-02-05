@@ -73,7 +73,7 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-kate-on-being-awarded-a-prestigious-nihr-predoctoral-fellowship-to-advance-research-into-the-mechanistic-basis-of-neurophysiotherapy-interventions-for-dystonia",
           title: 'Congratulations to Kate on being awarded a prestigious NIHR Predoctoral Fellowship to advance...',
           description: "",
-          section: "News",},{id: "news-looking-forward-to-advances-in-motor-learning-ii-11-12-december-university-of-birmingham-mireia-and-marta-will-present-decoding-rating-scales-in-movement-disorders-marta-and-iván-will-update-on-building-scalable-tech-for-behavioural-sampling-in-clinical-populations-anna-will-deliver-a-keynote-in-the-disorders-section-discussing-the-development-and-application-of-scalable-technologies-in-human-movement-science",
+          section: "News",},{id: "news-looking-forward-to-advances-in-motor-learning-ii-11-12-december-university-of-birmingham-mireia-and-marta-will-present-decoding-rating-scales-in-movement-disorders-marta-and-iván-will-update-on-building-scalable-tech-for-behavioural-sampling-anna-will-deliver-a-keynote-in-the-disorders-section-discussing-the-development-and-application-of-scalable-technologies-in-human-movement-science",
           title: 'Looking forward to Advances in Motor Learning II (11–12 December, University of Birmingham)....',
           description: "",
           section: "News",},{id: "news-upcoming-conference-neurophysiological-bases-of-human-movement-16-17-december-king-s-college-london-anna-giving-a-talk-on-phenomenology-in-human-movement-disorders-and-debating-black-box-versus-mechanistic-modes-of-scientific-discovery",
