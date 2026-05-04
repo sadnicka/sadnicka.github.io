@@ -44,5 +44,11 @@ profiles:
     image_circular: false 
     more_info: >
       <p> PhD Student</p>
+  - align: left
+    image: defne.png
+    content: about_defne.md
+    image_circular: false 
+    more_info: >
+      <p> MSc Student</p>
 ---
 
