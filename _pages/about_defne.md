@@ -1,0 +1,3 @@
+Defne Tepret is an MSc Clinical Neuroscience student at University College London with a background in experimental and translational neuroscience. She completed her BSc in Neuroscience at Queen Mary University of London, where her research focused on interneuron injury in an aged rodent model of traumatic brain injury.
+
+At the CMD Lab, her research project focuses on phenotyping dystonia patients with DYT1 / DYT-TOR1A dystonia through kinematics and EMG parameters. 
