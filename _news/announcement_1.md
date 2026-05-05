@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-New article with Mark Edwards debated significance of clinical phenotype and how circuit-level understanding is critical to optimise treatment strategies in patients: [Between Nothing and Everything: Phenomenology in Movement Disorders](https://movementdisorders.onlinelibrary.wiley.com/doi/full/10.1002/mds.29584)
+Article with Mark Edwards debates significance of clinical phenotype and how circuit-level understanding is critical to optimise treatment strategies in patients: [Between Nothing and Everything: Phenomenology in Movement Disorders](https://movementdisorders.onlinelibrary.wiley.com/doi/full/10.1002/mds.29584)
 

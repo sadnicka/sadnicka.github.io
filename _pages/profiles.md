@@ -14,6 +14,7 @@ profiles:
     content: about_anna.md
     image_circular: false 
     more_info: 
+      <p> Anna Sadnicka</p>
   - align: left
     image: ivan.png
     content: about_ivan.md
