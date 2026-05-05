@@ -1,0 +1,1 @@
+NeuroGEARS is a London-based creative research and technology company working at the intersection of neuroscience, games, interaction, and robotics. Together, we are developing scalable, affordable systems to capture and quantify the features of human movement disorders, with applications across neuroscience research and healthcare.
